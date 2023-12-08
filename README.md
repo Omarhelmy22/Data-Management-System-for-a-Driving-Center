@@ -1,10 +1,10 @@
 # Data-Management-System-for-a-Driving-Center
-##Driving School Management System
-###Introduction
+#Driving School Management System
+#Introduction
 
 This project presents a revolutionary driving school management system implemented in C++. Designed to automate the often-tedious and time-consuming registry process, this system empowers driving schools around the globe to streamline their operations and enhance the overall student experience.
 
-###Features:
+#Features:
 
 Streamlined Client Experience: Students can effortlessly choose their preferred car type, practice schedule, and instructor directly through the system.
 User-Friendly Interface: Both clients and employees will appreciate the intuitive and easy-to-navigate interface, facilitating a smooth workflow.
@@ -31,6 +31,6 @@ Impact and Future:
 
 This innovative driving school management system has the potential to revolutionize the industry by streamlining operations, enhancing student satisfaction, and driving overall success. With its user-friendly interface, comprehensive features, and adaptability, this system is poised to become the go-to solution for driving schools worldwide.
 
-###Join the Movement:
+#Join the Movement:
 
 Embrace the future of driving school management and embark on a journey of increased efficiency, enhanced student satisfaction, and data-driven decision making. Implement this system today and experience the transformative power of technology in the driving school industry.
